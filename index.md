@@ -1,6 +1,6 @@
 # **Personal Area**
 
-### Hello
+### Hello,
 
 ![Jinyeong-removebg-preview](https://user-images.githubusercontent.com/99950141/157451522-e868662e-0676-40ff-9450-2f696b384522.png) 
  
