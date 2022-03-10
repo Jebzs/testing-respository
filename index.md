@@ -114,7 +114,7 @@ Here are a few games I often play in my free time;
 
 #### Riot Games' competitive 5v5 character-based tactical shooter, VALORANT, that was released on June 2nd, 2020. Set in a near-future Earth, you team up with 4 other players against 5 enemies in round-based combat with an agent of your choice. Creativity is your greatest weapon.
 
-
+---
 
 **Most of my free time is spent in this game with a few friends.**
 
@@ -133,7 +133,7 @@ Here are a few games I often play in my free time;
 
 #### Apex Legends is a free-to-play hero shooter game developed by Respawn Entertainment and published by Electronic Arts. It was released on February 4, 2019. Apex Legends plans on releasing on mobile in 2022.
 
-
+---
 
 **I don't play this game as often as Valorant, but I have spent a good amount of time in this game.**
 
@@ -152,7 +152,7 @@ Here are a few games I often play in my free time;
 
 #### Genshin Impact is an open-world, action RPG developed and published by miHoYo for PC, iOS/Android, and PS4/PS5 platforms. The game is free-to-play with a gacha monetization system in the form of Wishes.
 
-
+---
 
 **Similar to Apex Legends, I don't spend much time in this game as I used to, but I still play from time to time.**
 
